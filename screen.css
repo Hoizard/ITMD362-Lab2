@@ -46,11 +46,6 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-body {
-  font-size: 20px;
-  font-family: 'Times New Roman', sans-serif;
-  background-color: #5b76a0;
-}
 
 /* select normalize css */
 
@@ -223,6 +218,16 @@ textarea {
 }
 
 /* start my css */
+
+body {
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 20px;
+  font-size: 20px;
+  font-family: 'Times New Roman', sans-serif;
+  background-color: #5b76a0;
+}
+
 
 label, input {
   display: block;
