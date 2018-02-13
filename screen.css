@@ -46,6 +46,11 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+body {
+  font-size: 20px;
+  font-family: 'Times New Roman', sans-serif;
+  background-color: #5b76a0;
+}
 
 /* select normalize css */
 
