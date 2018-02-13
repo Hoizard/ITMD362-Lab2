@@ -231,10 +231,14 @@ body {
 p
 {
   margin-top: 15px;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   padding: 5px;
 }
 
+h1{
+  font-size: 36px;
+  font-family: "Gill Sans", sans-serif;
+}
 
 label, input {
   display: block;
